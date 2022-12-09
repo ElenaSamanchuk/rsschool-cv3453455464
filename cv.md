@@ -4,7 +4,6 @@
 ***
 
 ### Education:
-2019  
 **Francisk Skorina Gomel State University**  
 _Information Technologies Software Support_
 
